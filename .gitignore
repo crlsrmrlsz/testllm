@@ -1,0 +1,6 @@
+# Ignore model files
+models/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+.virtual_documents/
